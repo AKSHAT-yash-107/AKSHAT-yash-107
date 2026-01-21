@@ -2,7 +2,7 @@
 
 Computer Science undergraduate focused on **backend development**, supported by strong **DSA fundamentals** and **applied machine learning projects**.
 
-I build **real, end-to-end systems** — not toy demos — involving data, APIs, databases, and clear engineering decisions.
+
 
 ---
 
