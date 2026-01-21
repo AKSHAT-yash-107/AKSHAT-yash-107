@@ -1,120 +1,55 @@
+# Hi, I’m Akshat
 
----
-[![](https://visitcount.itsvg.in/api?id=AKSHAT-yash-107&icon=0&color=0)](https://visitcount.itsvg.in)
-# Hi, I’m Akshat 👋
+Computer Science undergraduate focused on **backend development**, supported by strong **DSA fundamentals** and **applied machine learning projects**.
 
-🎓 Computer Science undergraduate  
-💻 Focused on **Backend Development, Automation, and Applied Machine Learning**
-
-I build **real systems**, not toy demos — projects that involve data, APIs, databases, and clear engineering decisions.
+I build **real, end-to-end systems** — not toy demos — involving data, APIs, databases, and clear engineering decisions.
 
 ---
 
-## 🔧 What I Build
+## What I Build
 
-- **Backend systems** using Node.js, Java, and Python  
+- **Backend systems** using Java, Node.js, and Python  
 - **Automation pipelines** (data collection → processing → output)  
-- **Machine Learning projects** with real datasets and proper evaluation  
-- Clean, structured code with emphasis on **readability and correctness**
+- **Machine learning projects** with real datasets, evaluation, and visual analysis  
+- **Clean, structured code** with emphasis on readability and correctness  
 
 ---
 
-## 🚀 Featured Projects
+## Featured Work
+
 ⬇️ See my **pinned repositories** below ⬇️  
-Each project includes:
+
+Each featured project includes:
 - Clear problem statement  
-- How it works  
-- How to run it  
-- Sample outputs  
-- What I learned  
+- Project structure & design choices  
+- How to run the project  
+- Sample outputs / visualizations  
+- Key learnings and limitations  
 
-I value **clarity over clutter**.
-
----
-
-## 🧠 Currently Improving
-
-- Backend architecture & REST API design  
-- System design fundamentals  
-- Writing production-ready, maintainable code  
-- Turning projects into deployable systems  
+I prefer **depth over quantity**.
 
 ---
 
+## Current Focus
 
-
-## 📫 Connect
-- GitHub: https://github.com/AKSHAT-yash-107
-
----
-
-
-<!--
-**AK# Hi, I’m Akshat 👋
-
-🎓 Computer Science undergraduate  
-💻 Focused on **Backend Development, Automation, and Applied Machine Learning**
-
-I build **real systems**, not toy demos — projects that involve data, APIs, databases, and clear engineering decisions.
-
----rfvvrfvrfvrfvrfv
-
-## 🔧 What I Build
-
-- **Backend systems** using Node.js, Java, and Python  
-- **Automation pipelines** (data collection → processing → output)  
-- **Machine Learning projects** with real datasets and proper evaluation  
-- Clean, structured code with emphasis on **readability and correctness**
+- Strengthening backend architecture & API design  
+- Writing maintainable, production-ready code  
+- Improving problem-solving through consistent DSA practice  
+- Turning learning projects into polished, explainable work  
 
 ---
 
-## 🚀 Featured Projects
-⬇️ See my **pinned repositories** below ⬇️  
-Each project includes:
-- Clear problem statement  
-- How it works  
-- How to run it  
-- Sample outputs  
-- What I learned  
+## Principles I Follow
 
-I value **clarity over clutter**.
-
----
-
-## 🧠 Currently Improving
-
-- Backend architecture & REST API design  
-- System design fundamentals  
-- Writing production-ready, maintainable code  
-- Turning projects into deployable systems  
-
----
-
-## 📌 Principles I Follow
-
-- Simplicity > unnecessary complexity  
-- One strong project > ten weak ones  
-- Understanding > memorization  
+- Clarity over cleverness  
+- One strong project > many weak ones  
+- Understanding internals, not just using libraries  
 - Consistency beats motivation  
 
 ---
 
-## 📫 Connect
-- GitHub: https://github.com/AKSHAT-yash-107
+## About This Profile
 
----
+This GitHub reflects **active learning and steady improvement**.  
+Repositories are cleaned, documented, and intentionally structured.
 
-*I’m actively building and improving. This profile reflects work in progress — with intent.*
-SHAT-yash-107/AKSHAT-yash-107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking tosd collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
