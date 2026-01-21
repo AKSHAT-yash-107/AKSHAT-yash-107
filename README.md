@@ -48,9 +48,6 @@ I value **clarity over clutter**.
 
 ---
 
-*I’m actively building and improving. This profile reflects work in progress — with intent.*
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
 
 <!--
 **AK# Hi, I’m Akshat 👋
